@@ -4,10 +4,10 @@
 
 <p align="center">
   <a href="#-nlw">Next Level Week</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
+  <a href="#-contact">Contato</a>
 </p>
 
 ## O que é Next Level Week?
@@ -28,12 +28,12 @@ Um evento online e totalmente gratuito que o ajudará a dar o próximo passo na 
 
 - Dia 5: Milha extra 05/06
 
-## Project
+## Projeto
 
 Ecoleta é um projeto desenvolvido com base na semana internacional do meio ambiente.
 O objetivo é conectar pessoas a empresas que coletam resíduos específicos, como lâmpadas, baterias, óleo de cozinha etc.
 
-## Technologies
+## Tecnologias
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -45,6 +45,6 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 Para acessar o layout - [Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/).
 
-## License
+## Contato
 
 Feito por Gabriel Dias [Entrar em contato!](https://www.linkedin.com/in/gabriel-dias-990472190/)
