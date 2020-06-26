@@ -47,4 +47,8 @@ Para acessar o layout - [Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28l
 
 ## Contato
 
-Feito por Gabriel Dias [Entrar em contato!](https://www.linkedin.com/in/gabriel-dias-990472190/)
+Feito por Gabriel Dias
+
+- [Linkedin](https://www.linkedin.com/in/gabrieldias-)
+
+- [Instagram](https://www.instagram.com/dias_developer/)
